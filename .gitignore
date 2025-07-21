@@ -1,0 +1,30 @@
+# Mac system files
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Environments
+.env
+.venv/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data & output
+data/*.csv
+screenshots/
+
+# VS Code settings
+.vscode/
+
+# OS metadata
+Thumbs.db
+ehthumbs.db
+
+# Pytest
+.cache/
