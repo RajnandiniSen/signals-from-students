@@ -103,14 +103,14 @@ signals-from-students/
 
 I’m a **rising sophomore at the University of Illinois Urbana-Champaign**, majoring in Data Science + Info Sciences. I built this project to show that innovation signals can come from the student level — and to apply my ML/data skills to a problem I care about.
 
-You can view more of my work [on GitHub](https://github.com/your-username) or connect with me on [LinkedIn](https://linkedin.com/in/your-profile).
+You can view more of my work [on GitHub](https://github.com/RajnandiniSen) or connect with me on [LinkedIn](https://linkedin.com/in/rajnandinisen).
 
 ---
 
 ## 📦 Setup
 
 ```bash
-git clone https://github.com/your-username/signals-from-students.git
+git clone https://github.com/RajnandiniSen/signals-from-students
 cd signals-from-students
 pip install -r requirements.txt
 
